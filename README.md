@@ -1,3 +1,8 @@
+# A simple React Webapp for querying a subgraph to get the current ETH price
+
+
+<img width="1533" alt="Screen Shot 2023-11-30 at 12 09 35 PM" src="https://github.com/sshb3n/subgraph-app-typescript/assets/132958472/59d76d8a-2d73-4ab1-8f83-c28116d250b0">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
